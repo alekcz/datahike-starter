@@ -3,7 +3,7 @@
 A beginning friendly space for getting started with datahike and datascript from clojure.
 
 ## Usage
-This repository is a companion for the [datahike-tuts](https://app.gitbook.com/@alekcz/s/datahike-tuts). Happy hiking.
+This repository is a companion for the [datahike-tuts](https://alekcz.gitbook.io/datahike-tuts/). Happy hiking.
 
 ## License
 
