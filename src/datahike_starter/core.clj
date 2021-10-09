@@ -1,6 +1,5 @@
 (ns datahike-starter.core
-    (:require [datahike.api :as d]
-              [datahike-firebase.core])    
+    (:require [datahike.api :as d])    
   (:gen-class))
 
 (def config {:store {:backend :mem}
